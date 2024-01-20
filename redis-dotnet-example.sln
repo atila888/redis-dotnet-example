@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3A41F759-21F4-4AD0-B7C8-1A04397ABCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisExample", "RedisExample\RedisExample.csproj", "{97CDFF41-7E40-458E-A8D9-56451D39D476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97CDFF41-7E40-458E-A8D9-56451D39D476} = {3A41F759-21F4-4AD0-B7C8-1A04397ABCFD}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CDFF41-7E40-458E-A8D9-56451D39D476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CDFF41-7E40-458E-A8D9-56451D39D476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CDFF41-7E40-458E-A8D9-56451D39D476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CDFF41-7E40-458E-A8D9-56451D39D476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
